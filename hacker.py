@@ -89,7 +89,7 @@ print  """
  \033[1;92m#  Pakistani Hackers     
 \033[1;97m●🅛🅞🅥🅔🅗🅐🅒🅚🅔🅡●\033[1;92m<><>\033[1;97m●🅛🅞🅥🅔🅗🅐🅒🅚🅔🅡●
 \033[1;92m	 Owner\033[1;97m: \033[1;92mL͓̽o͓̽v͓̽e͓̽h͓̽a͓̽c͓̽k͓̽e͓̽r͓̽
-\033[1;92m	 Youtube\033[1;97m: \033[1;92mAsif Javed
+\033[1;92m	 Youtube\033[1;97m: \033[1;92mhttps://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw
 \033[1;97m●🅛🅞🅥🅔🅗🅐🅒🅚🅔🅡●\033[1;92m<><>\033[1;97m●🅛🅞🅥🅔🅗🅐🅒🅚🅔🅡●"""
 
 CorrectUsername = "love"
@@ -105,10 +105,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCij7zU_cP7q6mgoaWB6vavg')
+            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCij7zU_cP7q6mgoaWB6vavg')
+        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
 
 def login():
 	os.system('clear')
